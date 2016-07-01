@@ -6,8 +6,8 @@
 
 一 填空题（每题3分，共15分）
 
-1. 函数`!$\[\large z=\frac{\sqrt{2x^{2}-y}}{\mathrm{ln}(1-x^{2}-y^{2})}\]$`的定义域为________。
-2. 向量`$\[\vec{a}\]$`和向量`$\[\vec{b}\]$`夹角为`$\[\frac{2\pi}{3}\]
-$`，且`$\[\left | \vec{a} \right |=3\]$`，`$\[\left | \vec{b} \right |=4\]$`则`$\[(3\vec{a}-2\vec{b})(\vec{a}+2\vec{b})\]
-$`=_______。
+1. 函数$z=\frac{\sqrt{2x^{2}-y}}{\mathrm{ln}(1-x^{2}-y^{2})}$的定义域为________。
+2. 向量$\vec{a}$和向量$\vec{b}$夹角为$\frac{2\pi}{3}
+$，且$\left | \vec{a} \right | =3$，$\left | \vec{b} \right | =4$，则$(3\vec{a}-2\vec{b})(\vec{a}+2\vec{b})
+$=_______。
 3. 
